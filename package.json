@@ -5,9 +5,17 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "@strapi/plugin-cloud": "5.31.0",
+    "@strapi/plugin-users-permissions": "5.31.0",
+    "@strapi/strapi": "5.31.0",
+    "fs-extra": "^10.0.0",
+    "mime-types": "^2.1.27",
     "next": "^16.0.3",
+    "pg": "8.8.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^6.0.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "styled-components": "^6.0.0"
   },
   "devDependencies": {
     "@eslint/compat": "^1.1.1",
